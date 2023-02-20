@@ -4,15 +4,13 @@ this is a object oriented web app that simulates a business situation where u cr
 
 \***
 
-{
-    "compilerOptions": {
+    {"compilerOptions": {
         "outDir": "./dist/js",
         "target": "ES6",
         "noEmitOnError": true,
         "noImplicitAny": true,
         "removeComments": true,
-        // "strictNullChecks": true
+        // "strictNullChecks": true},
 
-    },
-    "include": ["app/**/*"]
-}
+    
+    "include": ["app/**/*"]}
